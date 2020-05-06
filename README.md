@@ -1,2 +1,2 @@
 # Linux
-Linux scripts
+Linux scripts for everyone :)
